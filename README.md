@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewpjensen
-- 👀 I’m interested in national security, emerging technologies, data analysis, and the future of threats!
+- 👀 I’m interested in national security, emerging technologies, data analysis, and the future!
 - 🌱 I’m currently learning ML/DL and full stack development. 
 - 💞️ I’m looking to collaborate on anything and everything related to natsec or emerging technology. 
 - 📫 How to reach me - andrewpaulljensen@gmail.com
